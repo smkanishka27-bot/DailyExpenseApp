@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expense_categories">
+        <item>Office Supplies</item>
+        <item>Travel / Taxi</item>
+        <item>Client Meeting</item>
+        <item>Printing / Xerox</item>
+        <item>Internet / Phone Bill</item>
+    </string-array>
+</resources>
